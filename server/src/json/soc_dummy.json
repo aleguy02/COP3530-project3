@@ -1,0 +1,16 @@
+{
+  "courses": [
+    {
+      "code": "MAC2311",
+      "prerequisites": ""
+    },
+    {
+      "code": "COP3502",
+      "prerequisites": "MAC2311"
+    },
+    {
+      "code": "COP3530",
+      "prerequisites": "COP3502"
+    }
+  ]
+}
